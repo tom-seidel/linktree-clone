@@ -8,10 +8,11 @@ A **minimalist and responsive Linktree-style landing page** – ideal for develo
 
 ## ✨ Features
 
-- ✅ **Responsive Design** – Works smoothly on all screen sizes.
-- 🛠️ **Easy Customization** – Just edit `index.html` to update your content.
-- 🧩 **No Dependencies** – Built with pure HTML, CSS, and JavaScript.
-- 🌙 **Dark Mode Support** – Automatically follows the system theme, with manual toggle option included.
+- ✅ **Responsive Design** – Works smoothly on all screen sizes.  
+- 🛠️ **Easy Customization** – Just edit `index.html` to update your content.  
+- 🧩 **No Dependencies** – Built with pure HTML, CSS, and JavaScript.  
+- 🌙 **Dark Mode Support** – Automatically follows the system theme, with manual toggle option included.  
+- 📤 **Built-in Share Modal** – Allows sharing of the entire page or individual links via a single, dynamic modal window.
 
 ---
 
